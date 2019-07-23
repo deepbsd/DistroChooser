@@ -48,7 +48,19 @@ Each distribution in our database has a number of attributes:
 18. Maintained by Company or by Small Group
 
 
+## Recommendations
 
+What the user actually gets is a list of recommended Linux distros and links to their ISOs and their
+documentation.
+
+Also, the user will receive a profile with printout of the user object created from the survey he/she
+completed.
+
+It will be possible for the user to update this object by hand and receive a different set of
+recommendations as well.
+
+The recommendations will be somewhat arbitrary, but there will be a ranking based upon how well the
+users profile matches each of the distributions in the database.
 
 
 
