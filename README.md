@@ -29,6 +29,7 @@ Each distribution in our database has a number of attributes:
 
 1. Primary use case
 2. Required experience level
+2a. Other use cases
 3. Release model
 4. Package Manager
 5. Professional Design (scale of 1-10)
