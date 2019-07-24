@@ -63,4 +63,11 @@ The recommendations will be somewhat arbitrary, but there will be a ranking base
 users profile matches each of the distributions in the database.
 
 
+## New Idea
+
+For a prototype, why not build a dashboard that enables the user to set dials for his level of
+experience, primary use case, start up method, etc etc from a series of dials on the front.  The app
+sorts through the list of distros based on the appropriate selection and sorting.
+
+
 
